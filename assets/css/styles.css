@@ -1,0 +1,27 @@
+body {
+    background-image: url("../images/memphis-mini.png");
+}
+
+.row {
+    padding-top: 50px;
+}
+
+.container {
+    padding-top: 50px;
+    border: solid;
+    background-color: #fff
+}
+
+.container-1 {
+    border: solid;
+
+}
+
+.name {
+    width: 100%;
+    color: #4aaaaf;
+    /* padding-left: 5px; */
+    border-bottom: gray solid;
+    border-bottom-width: 1px;
+    
+}
