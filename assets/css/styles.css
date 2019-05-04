@@ -1,3 +1,7 @@
+    /* { */
+    /* background-color: #4aaaaf; */
+/* } */
+
 body {
     background-image: url("../images/memphis-mini.png");
 }
@@ -7,10 +11,13 @@ body {
 }
 
 .container {
-    padding-top: 50px;
-    border: solid;
-    background-color: #fff
+    margin-top: 5%;
+    /* border: solid; */
+    background-color: #fff;
+    width: 960px;
 }
+    
+
 
 .container-1 {
     border: solid;
@@ -25,3 +32,10 @@ body {
     border-bottom-width: 1px;
 }
 
+footer {
+    width: 100%;
+    background-color: #4aaaaf;
+    color: #fff;
+    text-align: center;
+    margin-top: 15%;
+}
